@@ -1,3 +1,10 @@
+/* ------ Mobile First ------ */
+
+body {
+  width: 90%;
+  max-width: 376px;
+  background-color: green;
+}
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width:768px) {
